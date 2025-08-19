@@ -7,7 +7,7 @@
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue?logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-Cloud-yellow?logo=googlecolab&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-Repo-black?logo=github&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)
 
 ## 📌 Descripción del Proyecto
 Este proyecto tiene como objetivo aplicar técnicas de **estadística, regresión lineal y machine learning** para abordar un problema real en el sector de telecomunicaciones: la predicción de **churn** (cancelación de clientes) en mi empresa Telecom X. 
@@ -17,11 +17,6 @@ El desafío propone trabajar con un conjunto de datos representativo, que incluy
 ---
 
 ## 🛠️ Tecnologías Utilizadas
-
-### 🔹 Para el desarrollo
-- Python 3.9
-- Jupyter Notebook / Google Colab
-- Git & GitHub
 
 ### 🔹 Librerías de Python
 
